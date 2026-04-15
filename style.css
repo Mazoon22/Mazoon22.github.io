@@ -1,0 +1,59 @@
+nav ul{background-color: black;
+    width: 100%;
+list-style: none;
+padding: 0;
+display: flex;
+justify-content: center;
+margin: 0;}
+nav{display: block;}
+nav ul li a{color: white;
+    text-decoration: none;
+padding: 15px 20px;
+display: block;
+}
+nav ul li a:hover{color: darkcyan;
+background-color: rgb(228, 222, 222);}
+body{text-align: center;
+color: black;
+padding: 0;
+margin: 0;
+width: 100%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(230, 222, 222);}
+
+
+
+hr{width: 100%;
+margin: 20px;
+display: block;
+padding: 0;
+clear: both;}
+header{color: brown;}
+table{width: 90%;
+margin: auto;
+border: 1px solid black;
+border-collapse:collapse ;
+background-color: beige;}
+th,td{border: 1px solid black;}
+th{background-color: cadetblue;}
+.form1{width: 10%;
+     text-align: center;
+margin: auto;
+padding: 20px;
+border:  solid black;}
+label{color: brown;
+display: block;}
+.m{color: brown;}
+.m:hover{background-color: rgb(236, 196, 123);}
+.e{height: 50px;;}
+.k{color: brown;
+display: block;
+text-align: center;
+margin-right: auto;
+margin-left: auto;}
+
+.form2{text-align: center;
+margin: auto;
+}
+@media screen and (max-width: 768px) 
+
