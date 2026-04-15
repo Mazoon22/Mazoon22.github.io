@@ -40,6 +40,8 @@ th{background-color: cadetblue;}
      text-align: center;
 margin: auto;
 padding: 20px;
+ margin: 20px auto;      
+       
 }
 label{color: brown;
 display: block;}
